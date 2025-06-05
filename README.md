@@ -1,6 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -15,7 +13,7 @@
 
 ### 🛠 &nbsp;Skills
 <h2>:computer:Lenguages</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++,python,sql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,sql,java)](https://skillicons.dev)
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
