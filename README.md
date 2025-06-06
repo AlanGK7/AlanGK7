@@ -9,9 +9,8 @@
 🌱 &nbsp;I'm on my way to learning more about cybersecurity and API development..\
 ✉️ &nbsp;You can shoot me an email at alan.sotomayor@mail.udp.cl! I'll try to respond as soon as I can.
 
-### 🛠 &nbsp;Skills
 <h2>:computer:Lenguages</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,sql,java)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,sql,java)](https://skillicons.dev)]
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
