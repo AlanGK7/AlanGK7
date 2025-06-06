@@ -36,8 +36,26 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"
+      alt="docker" width="40" height="40" /> </a><a href="https://docker.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"
+      alt="docker" width="40" height="40" /> </a><a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"
+      alt="docker" width="40" height="40" /> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"
       alt="docker" width="40" height="40" /> </a></p>
 
+<h3 align="left">OS:</h3>
+<p align="left"> <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.microsoft.com/es-cl/windows?r=1" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg"
+      alt="bootstrap" width="40" height="40" /> </a><a href="https://www.kali.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg"
+      alt="bootstrap" width="40" height="40" /> </a><a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg"
+      alt="bootstrap" width="40" height="40" /> </a><a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"
+      alt="bootstrap" width="40" height="40" /> </a>  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
