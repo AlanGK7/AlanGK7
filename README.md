@@ -36,17 +36,21 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"
-      alt="docker" width="40" height="40" /> </a><a href="https://docker.com/" target="_blank" rel="noreferrer"> <img
+      alt="aws" width="40" height="40" /> </a><a href="https://docker.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"
       alt="docker" width="40" height="40" /> </a><a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"
-      alt="docker" width="40" height="40" /> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+      alt="arduino" width="40" height="40" /> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"
-      alt="docker" width="40" height="40" /> </a><a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img
+      alt="poastgressql" width="40" height="40" /> </a><a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"
-      alt="docker" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+      alt="git" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"
-      alt="docker" width="40" height="40" /> </a></p>
+      alt="express" width="40" height="40" /> </a><a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
+      alt="mongoDB" width="40" height="40" /> </a><a href="" target="_blank" rel="noreferrer"> <img
+      src="https://private-user-images.githubusercontent.com/128186240/455068054-ab492bea-7d41-4727-a8aa-36c85e110900.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA3MjYxNTUsIm5iZiI6MTc1MDcyNTg1NSwicGF0aCI6Ii8xMjgxODYyNDAvNDU1MDY4MDU0LWFiNDkyYmVhLTdkNDEtNDcyNy1hOGFhLTM2Yzg1ZTExMDkwMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyNFQwMDQ0MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYWJiYjE5YmE0MTk5ZDJkODFmNTU0ZmU2YjM2MTFjNDI4MTVkODA1MGQxOWRkNzg5ZWRkNjIzMzNhYjc5YmE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hJVOZaLDlBhfM2s_Mi2hQplTIeWz38VvjM_wdPUvuAI"
+      alt="neo4j" width="40" height="40" /> </a></p>
       
 
 <h3 align="left">OS:</h3>
