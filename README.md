@@ -50,7 +50,7 @@
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
       alt="mongoDB" width="40" height="40" /> </a><a href="" target="_blank" rel="noreferrer"> <img
       src="https://private-user-images.githubusercontent.com/128186240/455068054-ab492bea-7d41-4727-a8aa-36c85e110900.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA3MjYxNTUsIm5iZiI6MTc1MDcyNTg1NSwicGF0aCI6Ii8xMjgxODYyNDAvNDU1MDY4MDU0LWFiNDkyYmVhLTdkNDEtNDcyNy1hOGFhLTM2Yzg1ZTExMDkwMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyNFQwMDQ0MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYWJiYjE5YmE0MTk5ZDJkODFmNTU0ZmU2YjM2MTFjNDI4MTVkODA1MGQxOWRkNzg5ZWRkNjIzMzNhYjc5YmE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hJVOZaLDlBhfM2s_Mi2hQplTIeWz38VvjM_wdPUvuAI"
-      alt="neo4j" width="40" height="50" /> </a></p>
+      alt="neo4j" width="60" height="40" /> </a></p>
       
 
 <h3 align="left">OS:</h3>
